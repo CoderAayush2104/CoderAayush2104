@@ -3,9 +3,7 @@
 <img src = "https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47p6aywj7jtmoobtuni9vy2y7369cin7ubfssgp85k&ep=v1_gifs_search&rid=giphy.gif&ct=g" align="right"></img>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=coderaayush2104&label=Profile%20views&color=0e75b6&style=flat" alt="coderaayush2104" /> </p>
 
-- 🔭 I’m currently working on **Podlink**
-
-- 🌱 I’m currently learning **Redux**
+- 🔭 I’m currently working at **Commotion**
 
 - 💬 Ask me about **React**
 
